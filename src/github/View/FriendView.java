@@ -76,7 +76,7 @@ public class FriendView extends JFrame {
 	 * Create the frame.
 	 */
 	public FriendView() {
-		setTitle("친구 관리");
+		setTitle("친구 관리 프로그램");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 613, 593);
 		contentPane = new JPanel();
